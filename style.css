@@ -364,7 +364,7 @@
 }
 .second .heading h1,.third .heading h1, .village-franchise .heading h1, .opening-soon .heading h1, .socialfeed .heading h1{font-family: fairplay;}
 /* media query for home page */
-@media only screen and (max-width: 768px) and (min-width:425px) {
+@media only screen and (max-width: 768px) and (min-width:426px) {
   .nave-list, .nav-franchise-btn{display: none;}
   .bg-image {
     background-image: url(./assets/img/background-img.jpg);
